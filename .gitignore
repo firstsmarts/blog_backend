@@ -1,0 +1,6 @@
+/myweb_backend/db.sqlite3
+/myweb_backend/.idea
+/myweb_backend/myweb/*.pyc
+/myweb_backend/blog/*.pyc
+/myweb_backend/blog/migrations/*.pyc
+/.idea
